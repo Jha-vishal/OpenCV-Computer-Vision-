@@ -30,4 +30,5 @@ your browser or IDE
 Output
 (Authorized Access)
 
-(Un-
+(Un-Authorized Access)
+![](QR%20code%20reader/Unauth.jpg)
