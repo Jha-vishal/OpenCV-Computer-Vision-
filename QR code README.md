@@ -1,4 +1,4 @@
-# OpenCV-Computer-Vision-
+#Barcode Scanner with computer vission fast reliable, multiple scanning in real time.
 Python projects regarding openCV and AIDC Industries.
 ![](QR%20code%20reader/Auth.jpg)
 
